@@ -50,7 +50,6 @@ The dashboard provides real-time insights into key performance indicators (KPIs)
 ## Tools and Technologies Used
 - **Power BI**: For data visualization and dashboard creation.
 - **Microsoft Excel**: For initial data inspection and cleaning.
-- **SQL**: For data extraction and transformation (if applicable).
 - **DAX (Data Analysis Expressions)**: For creating calculated columns and measures in Power BI.
 
 ## Data Cleaning and Preparation
